@@ -14,7 +14,7 @@
 
 在 master 分支上创建并切换到 dev 分支：
 
-```Git
+```
 git checkout -b dev
 ```
 
